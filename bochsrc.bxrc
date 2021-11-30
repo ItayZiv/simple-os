@@ -1,0 +1,2 @@
+floppya: 1_44="$BOCHS_BOOT_IMAGE", status=inserted
+boot: a
