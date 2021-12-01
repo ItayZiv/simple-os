@@ -7,7 +7,7 @@ call print
 
 jmp $
 
-%include "print_function.asm"
+%include "../functions/print/print_function.asm"
 
 BOOTING_STRING:
 db '===== Booting OS =====', 0x0d, 0x0a, 0
